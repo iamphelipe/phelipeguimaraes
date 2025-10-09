@@ -4,12 +4,6 @@
   Me chamo Phelipe e tenho 21 anos. Sou apaixonado por tecnologia, adoro desenvolver códigos e resolver problemas! Tenho o sonho de ser desenvolvedor Front End. Aqui você acompanha o início da minha jornada na programação.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phelipeguimaraes&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipeguimaraes&layout=compact" alt="Top Languages" height="165">
-</p>
-
 -------------------
 
 # Skills
