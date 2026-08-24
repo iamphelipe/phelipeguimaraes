@@ -29,11 +29,8 @@
   <a href="https://www.instagram.com/iamphelipe_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
   </a>&nbsp;&nbsp;
-  <a href="https://contate.me/whatsapp-phelipeguimaraes" target="_blank">
+  <a href="https://wa.me/5562981171048" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="28" />
-  </a>&nbsp;&nbsp;
-  <a href="phelipevieira2013@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://stalwart-starlight-84b3ac.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
