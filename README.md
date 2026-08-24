@@ -1,7 +1,7 @@
 # Hi There, guys! 🫡
 
 <p align="left">
-  Me chamo Phelipe e tenho 21 anos. Sou apaixonado por tecnologia, adoro desenvolver códigos e resolver problemas! Tenho o sonho de ser desenvolvedor Front End. Aqui você acompanha o início da minha jornada na programação.
+  Me chamo Phelipe e tenho 22 anos. Sou apaixonado por tecnologia, adoro desenvolver códigos e resolver problemas! Tenho o sonho de ser desenvolvedor Front End. Aqui você acompanha o início da minha jornada na programação.
 </p>
 
 -------------------
